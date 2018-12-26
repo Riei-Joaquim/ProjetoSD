@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="main">
+		<CBX_INST_ENTRY INSTANCE_NAME="|main|controle_teclado:dut11|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_pcm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|main|setseg:dut2|lpm_divide:Div1" CBX_FILE_NAME="lpm_divide_vim.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|main|setseg:dut2|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_3bm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|main|setseg:dut2|lpm_divide:Mod2" CBX_FILE_NAME="lpm_divide_gcm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|main|setseg:dut2|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_ihm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|main|setseg:dut2|lpm_divide:Div2" CBX_FILE_NAME="lpm_divide_dkm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|main|setseg:dut2|lpm_divide:Mod1" CBX_FILE_NAME="lpm_divide_6bm.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

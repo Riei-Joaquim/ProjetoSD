@@ -1,0 +1,401 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'controle_teclado:dut11|teclado:dut9|salve'
+Slack : -20.268
+TNS   : -304.630
+
+Type  : Slow 1200mV 85C Model Setup 'cronometro:dut3|clk_contador:dut|clkout'
+Slack : -4.646
+TNS   : -84.807
+
+Type  : Slow 1200mV 85C Model Setup 'controle_teclado:dut11|teclado:dut9|debounc:dut8|state.temp'
+Slack : -3.950
+TNS   : -3.950
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -3.610
+TNS   : -269.246
+
+Type  : Slow 1200mV 85C Model Setup 'controle_teclado:dut11|teclado:dut9|debounc:dut5|state.temp'
+Slack : -3.393
+TNS   : -3.393
+
+Type  : Slow 1200mV 85C Model Setup 'controle_teclado:dut11|teclado:dut9|debounc:dut6|state.temp'
+Slack : -3.386
+TNS   : -3.386
+
+Type  : Slow 1200mV 85C Model Setup 'controle_teclado:dut11|teclado:dut9|debounc:dut7|state.temp'
+Slack : -3.316
+TNS   : -3.316
+
+Type  : Slow 1200mV 85C Model Setup 'state.set'
+Slack : -2.540
+TNS   : -18.775
+
+Type  : Slow 1200mV 85C Model Setup 'clk_state:dut|clkout'
+Slack : -2.346
+TNS   : -6.618
+
+Type  : Slow 1200mV 85C Model Setup 'state.inicio'
+Slack : -1.621
+TNS   : -15.377
+
+Type  : Slow 1200mV 85C Model Setup 'controle_teclado:dut11|teclado:dut9|clk_teclado:dut9|clkout'
+Slack : 0.256
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'state.inicio'
+Slack : -1.301
+TNS   : -14.757
+
+Type  : Slow 1200mV 85C Model Hold 'clk_state:dut|clkout'
+Slack : -0.614
+TNS   : -0.971
+
+Type  : Slow 1200mV 85C Model Hold 'cronometro:dut3|clk_contador:dut|clkout'
+Slack : -0.582
+TNS   : -11.641
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : -0.338
+TNS   : -2.919
+
+Type  : Slow 1200mV 85C Model Hold 'controle_teclado:dut11|teclado:dut9|salve'
+Slack : -0.175
+TNS   : -1.827
+
+Type  : Slow 1200mV 85C Model Hold 'controle_teclado:dut11|teclado:dut9|clk_teclado:dut9|clkout'
+Slack : -0.039
+TNS   : -0.041
+
+Type  : Slow 1200mV 85C Model Hold 'state.set'
+Slack : 0.572
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'controle_teclado:dut11|teclado:dut9|debounc:dut7|state.temp'
+Slack : 3.067
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'controle_teclado:dut11|teclado:dut9|debounc:dut8|state.temp'
+Slack : 3.070
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'controle_teclado:dut11|teclado:dut9|debounc:dut6|state.temp'
+Slack : 3.103
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'controle_teclado:dut11|teclado:dut9|debounc:dut5|state.temp'
+Slack : 3.111
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -222.735
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'cronometro:dut3|clk_contador:dut|clkout'
+Slack : -1.285
+TNS   : -39.835
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'controle_teclado:dut11|teclado:dut9|salve'
+Slack : -1.285
+TNS   : -35.980
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_state:dut|clkout'
+Slack : -1.285
+TNS   : -5.140
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'controle_teclado:dut11|teclado:dut9|clk_teclado:dut9|clkout'
+Slack : -1.285
+TNS   : -3.855
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'state.set'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'controle_teclado:dut11|teclado:dut9|debounc:dut8|state.temp'
+Slack : 0.418
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'controle_teclado:dut11|teclado:dut9|debounc:dut6|state.temp'
+Slack : 0.419
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'controle_teclado:dut11|teclado:dut9|debounc:dut7|state.temp'
+Slack : 0.420
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'controle_teclado:dut11|teclado:dut9|debounc:dut5|state.temp'
+Slack : 0.421
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'state.inicio'
+Slack : 0.449
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'controle_teclado:dut11|teclado:dut9|salve'
+Slack : -18.245
+TNS   : -278.173
+
+Type  : Slow 1200mV 0C Model Setup 'cronometro:dut3|clk_contador:dut|clkout'
+Slack : -4.123
+TNS   : -74.899
+
+Type  : Slow 1200mV 0C Model Setup 'controle_teclado:dut11|teclado:dut9|debounc:dut8|state.temp'
+Slack : -3.553
+TNS   : -3.553
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -3.251
+TNS   : -225.499
+
+Type  : Slow 1200mV 0C Model Setup 'controle_teclado:dut11|teclado:dut9|debounc:dut5|state.temp'
+Slack : -3.016
+TNS   : -3.016
+
+Type  : Slow 1200mV 0C Model Setup 'controle_teclado:dut11|teclado:dut9|debounc:dut6|state.temp'
+Slack : -3.003
+TNS   : -3.003
+
+Type  : Slow 1200mV 0C Model Setup 'controle_teclado:dut11|teclado:dut9|debounc:dut7|state.temp'
+Slack : -2.941
+TNS   : -2.941
+
+Type  : Slow 1200mV 0C Model Setup 'state.set'
+Slack : -2.287
+TNS   : -15.922
+
+Type  : Slow 1200mV 0C Model Setup 'clk_state:dut|clkout'
+Slack : -1.977
+TNS   : -5.730
+
+Type  : Slow 1200mV 0C Model Setup 'state.inicio'
+Slack : -1.366
+TNS   : -12.400
+
+Type  : Slow 1200mV 0C Model Setup 'controle_teclado:dut11|teclado:dut9|clk_teclado:dut9|clkout'
+Slack : 0.315
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'state.inicio'
+Slack : -1.211
+TNS   : -13.840
+
+Type  : Slow 1200mV 0C Model Hold 'clk_state:dut|clkout'
+Slack : -0.516
+TNS   : -0.746
+
+Type  : Slow 1200mV 0C Model Hold 'cronometro:dut3|clk_contador:dut|clkout'
+Slack : -0.503
+TNS   : -9.386
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : -0.329
+TNS   : -1.371
+
+Type  : Slow 1200mV 0C Model Hold 'controle_teclado:dut11|teclado:dut9|salve'
+Slack : -0.133
+TNS   : -1.101
+
+Type  : Slow 1200mV 0C Model Hold 'controle_teclado:dut11|teclado:dut9|clk_teclado:dut9|clkout'
+Slack : -0.012
+TNS   : -0.012
+
+Type  : Slow 1200mV 0C Model Hold 'state.set'
+Slack : 0.544
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'controle_teclado:dut11|teclado:dut9|debounc:dut7|state.temp'
+Slack : 2.806
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'controle_teclado:dut11|teclado:dut9|debounc:dut8|state.temp'
+Slack : 2.811
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'controle_teclado:dut11|teclado:dut9|debounc:dut6|state.temp'
+Slack : 2.838
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'controle_teclado:dut11|teclado:dut9|debounc:dut5|state.temp'
+Slack : 2.849
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -222.735
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'cronometro:dut3|clk_contador:dut|clkout'
+Slack : -1.285
+TNS   : -39.835
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'controle_teclado:dut11|teclado:dut9|salve'
+Slack : -1.285
+TNS   : -35.980
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_state:dut|clkout'
+Slack : -1.285
+TNS   : -5.140
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'controle_teclado:dut11|teclado:dut9|clk_teclado:dut9|clkout'
+Slack : -1.285
+TNS   : -3.855
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'state.inicio'
+Slack : 0.376
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'state.set'
+Slack : 0.412
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'controle_teclado:dut11|teclado:dut9|debounc:dut8|state.temp'
+Slack : 0.429
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'controle_teclado:dut11|teclado:dut9|debounc:dut7|state.temp'
+Slack : 0.430
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'controle_teclado:dut11|teclado:dut9|debounc:dut5|state.temp'
+Slack : 0.431
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'controle_teclado:dut11|teclado:dut9|debounc:dut6|state.temp'
+Slack : 0.431
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'controle_teclado:dut11|teclado:dut9|salve'
+Slack : -9.478
+TNS   : -141.777
+
+Type  : Fast 1200mV 0C Model Setup 'cronometro:dut3|clk_contador:dut|clkout'
+Slack : -1.693
+TNS   : -26.833
+
+Type  : Fast 1200mV 0C Model Setup 'controle_teclado:dut11|teclado:dut9|debounc:dut8|state.temp'
+Slack : -1.549
+TNS   : -1.549
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -1.270
+TNS   : -49.788
+
+Type  : Fast 1200mV 0C Model Setup 'controle_teclado:dut11|teclado:dut9|debounc:dut5|state.temp'
+Slack : -1.270
+TNS   : -1.270
+
+Type  : Fast 1200mV 0C Model Setup 'controle_teclado:dut11|teclado:dut9|debounc:dut6|state.temp'
+Slack : -1.253
+TNS   : -1.253
+
+Type  : Fast 1200mV 0C Model Setup 'controle_teclado:dut11|teclado:dut9|debounc:dut7|state.temp'
+Slack : -1.209
+TNS   : -1.209
+
+Type  : Fast 1200mV 0C Model Setup 'state.set'
+Slack : -0.843
+TNS   : -2.798
+
+Type  : Fast 1200mV 0C Model Setup 'clk_state:dut|clkout'
+Slack : -0.786
+TNS   : -1.519
+
+Type  : Fast 1200mV 0C Model Setup 'state.inicio'
+Slack : -0.442
+TNS   : -2.462
+
+Type  : Fast 1200mV 0C Model Setup 'controle_teclado:dut11|teclado:dut9|clk_teclado:dut9|clkout'
+Slack : 0.619
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'cronometro:dut3|clk_contador:dut|clkout'
+Slack : -0.570
+TNS   : -13.758
+
+Type  : Fast 1200mV 0C Model Hold 'state.inicio'
+Slack : -0.560
+TNS   : -6.194
+
+Type  : Fast 1200mV 0C Model Hold 'clk_state:dut|clkout'
+Slack : -0.464
+TNS   : -0.857
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : -0.338
+TNS   : -8.804
+
+Type  : Fast 1200mV 0C Model Hold 'controle_teclado:dut11|teclado:dut9|salve'
+Slack : -0.130
+TNS   : -1.735
+
+Type  : Fast 1200mV 0C Model Hold 'controle_teclado:dut11|teclado:dut9|clk_teclado:dut9|clkout'
+Slack : -0.060
+TNS   : -0.098
+
+Type  : Fast 1200mV 0C Model Hold 'state.set'
+Slack : 0.279
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'controle_teclado:dut11|teclado:dut9|debounc:dut7|state.temp'
+Slack : 1.581
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'controle_teclado:dut11|teclado:dut9|debounc:dut8|state.temp'
+Slack : 1.591
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'controle_teclado:dut11|teclado:dut9|debounc:dut6|state.temp'
+Slack : 1.610
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'controle_teclado:dut11|teclado:dut9|debounc:dut5|state.temp'
+Slack : 1.624
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -184.038
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'cronometro:dut3|clk_contador:dut|clkout'
+Slack : -1.000
+TNS   : -31.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'controle_teclado:dut11|teclado:dut9|salve'
+Slack : -1.000
+TNS   : -28.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_state:dut|clkout'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'controle_teclado:dut11|teclado:dut9|clk_teclado:dut9|clkout'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'state.set'
+Slack : 0.345
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'state.inicio'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'controle_teclado:dut11|teclado:dut9|debounc:dut8|state.temp'
+Slack : 0.458
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'controle_teclado:dut11|teclado:dut9|debounc:dut6|state.temp'
+Slack : 0.459
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'controle_teclado:dut11|teclado:dut9|debounc:dut7|state.temp'
+Slack : 0.459
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'controle_teclado:dut11|teclado:dut9|debounc:dut5|state.temp'
+Slack : 0.460
+TNS   : 0.000
+
+------------------------------------------------------------

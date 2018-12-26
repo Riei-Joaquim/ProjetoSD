@@ -1,0 +1,49 @@
+
+State Machine - |main|state
+Name state.set state.pause state.run state.inicio 
+state.inicio 0 0 0 0 
+state.run 0 0 1 1 
+state.pause 0 1 0 1 
+state.set 1 0 0 1 
+
+State Machine - |main|controle_teclado:dut11|teclado:dut9|proxstate
+Name proxstate.coluna3 proxstate.coluna1 proxstate.coluna2 
+proxstate.coluna1 0 0 0 
+proxstate.coluna2 0 1 1 
+proxstate.coluna3 1 1 0 
+
+State Machine - |main|controle_teclado:dut11|teclado:dut9|state
+Name state.coluna3 state.coluna1 state.coluna2 
+state.coluna1 0 0 0 
+state.coluna2 0 1 1 
+state.coluna3 1 1 0 
+
+State Machine - |main|controle_teclado:dut11|teclado:dut9|debounc:dut8|state
+Name state.alto state.baixo state.temp 
+state.alto 0 0 0 
+state.temp 1 0 1 
+state.baixo 1 1 0 
+
+State Machine - |main|controle_teclado:dut11|teclado:dut9|debounc:dut7|state
+Name state.alto state.baixo state.temp 
+state.alto 0 0 0 
+state.temp 1 0 1 
+state.baixo 1 1 0 
+
+State Machine - |main|controle_teclado:dut11|teclado:dut9|debounc:dut6|state
+Name state.alto state.baixo state.temp 
+state.alto 0 0 0 
+state.temp 1 0 1 
+state.baixo 1 1 0 
+
+State Machine - |main|controle_teclado:dut11|teclado:dut9|debounc:dut5|state
+Name state.alto state.baixo state.temp 
+state.alto 0 0 0 
+state.temp 1 0 1 
+state.baixo 1 1 0 
+
+State Machine - |main|cronometro:dut3|state
+Name state.set state.cres state.desc 
+state.set 0 0 0 
+state.desc 1 0 1 
+state.cres 1 1 0 
